@@ -1,12 +1,13 @@
 # pucciniales-exif-tool
 Rust Exif Tool
 
-I'm making a Exif Tool in rust modeled after Exif Tool by Phil Harvey https://exiftool.org/
+I'm making a Exif Tool in rust 
 
 # ToDO
 Make the program :)
 
 # Acknoledgements
+inspired by Exif Tool by Phil Harvey https://exiftool.org , https://github.com/exiftool/exiftool
 
 # FAQ
 Why pucciniales?
